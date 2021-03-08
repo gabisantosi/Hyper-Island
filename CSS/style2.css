@@ -1,8 +1,8 @@
 body, html {
     height: 100%;
     font-size: 18px;
-    overflow: hidden;
-    position: relative; 
+    overflow: scroll;
+    
 }
 
 
@@ -36,7 +36,7 @@ h1 {
 p {
     font-size: 1.5em;
 }
-.number {
+.highlight {
 font-weight: bold;
 font-size: 1.8em;
 color: #EDAF1C;
