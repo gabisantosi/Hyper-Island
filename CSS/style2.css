@@ -23,7 +23,7 @@ body, html {
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-  background-color: rgba(57, 55, 55, 0.8);
+  background-color: rgba(57, 55, 55, 0.95);
   padding: 20px;
 }
 
