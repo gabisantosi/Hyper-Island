@@ -1,0 +1,47 @@
+body, html {
+    height: 100%;
+    font-size: 18px;
+    overflow: hidden;
+    
+}
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/Pictures/hero7.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  display: block;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  background-color: rgba(57, 55, 55, 0.9);
+  padding: 20px;
+}
+
+
+h1 {
+    font-size: 2em;   
+    
+}
+
+p {
+    font-size: 1.5em;
+}
+.highlight {
+font-weight: bold;
+font-size: 1.8em;
+color: #EDAF1C;
+}
+
+#source {
+    font-size: 0.8em;
+    margin-bottom: 50px;
+}
